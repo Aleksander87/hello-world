@@ -1,2 +1,2 @@
 # hello-world
-Testowa aplikacja
+Hello my name is Aleksander. This is my github.
